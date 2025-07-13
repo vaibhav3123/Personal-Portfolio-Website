@@ -29,7 +29,7 @@ This is my personal portfolio website showcasing who I am, the skills I’ve acq
 
 
 ## 🚀 Live Preview
-[🔗 View Live Portfolio](https://your-deployed-link-here.com)  
+[🔗 View Live Portfolio](https://vaibhavsbari.netlify.app/)
 
 
 ## 📧 Contact
