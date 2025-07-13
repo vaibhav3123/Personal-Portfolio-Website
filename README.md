@@ -17,7 +17,6 @@ This is my personal portfolio website showcasing who I am, the skills I’ve acq
 - Smooth scrolling and interactive layout
 - SEO-friendly structure
 
----
 
 ## 🛠️ Tech Stack
 
@@ -28,13 +27,16 @@ This is my personal portfolio website showcasing who I am, the skills I’ve acq
 - **Icons** via Bootstrap Icons
 - Optional tools: GitHub for deployment
 
----
 
 ## 🚀 Live Preview
+[🔗 View Live Portfolio](https://your-deployed-link-here.com)  
 
-> [🔗 View Live Portfolio](https://your-deployed-link-here.com)  
 
----
+## 📧 Contact
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vaibhav-bari-915bb5202/)
+- 📬 bariv219@gmail.com
+- 💼 [GitHub](https://github.com/vaibhav3123)
 
 
 
