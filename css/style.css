@@ -1,0 +1,144 @@
+.profile-img {
+    max-width: 550px;
+    width: 100%;
+    margin-right: 20px;
+  }
+
+  @media (max-width: 991.98px) {
+    .profile-img {
+      margin-right: 0; /* Remove right margin on smaller screens */
+    }
+  }
+@media (max-width: 500px) {
+  .hero-section {
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+  }
+
+  .hero-text {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+
+  .container,
+  .row {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+
+  body {
+    padding-top: 0;
+  }
+}
+#skills img {
+  transition: transform 0.3s ease;
+}
+#skills img:hover {
+  transform: scale(1.1);
+}
+@media (max-width: 576px) {
+  #contact {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+  }
+}
+@media (max-width: 576px) {
+  #projects {
+    padding-top: 2rem !important;
+  }
+}
+
+.navbar-nav .nav-link {
+  color: #000000;
+  text-decoration: none; /* Prevent underline by default */
+  transition: all 0.3s ease;
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link.active {
+  color: #eadc21;
+  text-decoration: none; /* Prevent underline on hover */
+  font-weight: 500;
+  outline: none; /* Remove outline for accessibility if unwanted */
+}
+
+@media (max-width: 999px) {
+    .about-photo {
+      display: none !important;
+    }
+  }
+
+div ui li{
+    list-style: none;
+}
+
+@media (max-width: 1000px) {
+  .about-image {
+    display: none !important;
+  }
+}
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: 1.75rem;
+    }
+    .lead {
+        font-size: 1rem;
+    }
+    .btn {
+        padding: .5rem 1rem;
+        font-size: .875rem;
+    }
+}
+
+.intro {
+    text-align: center;
+    padding: 20px;
+}
+
+h5 {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+
+@media (max-width: 768px) {
+    .intro {
+        padding: 10px;
+    }
+    h2 {
+        font-size: 20px;
+    }
+    .btn {
+        padding: 8px 16px;
+    }
+}
+@media (max-width: 840px) {
+    .row {
+        flex-direction: column; /* Stack columns on top of each other */
+    }
+    .col-lg-6 {
+        width: 100%; /* Make columns full-width */
+        text-align: center; /* Center text */
+    }
+    .profile-img {
+        margin-top: 20px; /* Add some space between text and image */
+    }
+}
+@media (max-width: 840px) {
+    h1 {
+        font-size: 24px; /* Adjust font size */
+    }
+    p {
+        font-size: 16px; /* Adjust font size */
+    }
+}
